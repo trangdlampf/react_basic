@@ -2,3 +2,4 @@ Sources from:
 
 NetNinja
 https://www.pluralsight.com/guides/executing-promises-in-a-react-component
+https://stackoverflow.com/questions/64638011/how-can-i-render-a-component-with-an-api-call-with-props-react-js 
