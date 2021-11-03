@@ -1,0 +1,4 @@
+Sources from:
+
+NetNinja
+https://www.pluralsight.com/guides/executing-promises-in-a-react-component
