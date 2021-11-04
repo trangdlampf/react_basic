@@ -1,4 +1,4 @@
-const processDataAsycn = async (num) => {  
+const myGetData = async (num) => {  
     if(typeof num === 'number') {  
       return 2*num;  
     } else {  
@@ -7,9 +7,9 @@ const processDataAsycn = async (num) => {
 };  
   
   
-processDataAsycn(21)
+myGetData(21)
     .then((data) => {  
-        console.log('Data from processDataAsycn() with async( When promise gets resolved ): ' + data);  
+        console.log('DATA from myGetData() with async( When promise gets RESOLVED ): ' + data); // prints data 
     }).catch((error) => {  
-        console.log('Error from processDataAsycn() with async( When promise gets rejected ): ' + error);  
+        console.log('ERROR from myGetData() with async( When promise gets REJECTED ): ' + error); // prints error 
     });
