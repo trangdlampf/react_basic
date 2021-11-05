@@ -14,5 +14,5 @@ npm start
 using:
 npm install react-router-dom@5
 
-If using internal db.json, set up the localhost on port 8000:
-npx json-server --watch data/db.json --port 8000
+If using internal db.json, set up the localhost on port 8001:
+npx json-server --watch data/db.json --port 8001
