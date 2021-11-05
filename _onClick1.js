@@ -1,7 +1,7 @@
 const Home = () => {
 
   const handleClick = (e) => {
-    console.log('hello ninjas', e);
+    console.log('hello world', e);
   }
 
   const handleClickAgain = (name, e) => {
@@ -13,7 +13,7 @@ const Home = () => {
       <h2>Homepage</h2>
       <button onClick={handleClick}>Click me</button>
       <button onClick={(e) => { 
-          handleClickAgain('mario', e)
+          handleClickAgain('trang', e)
       }}>Click me again</button>
     </div>
   );
