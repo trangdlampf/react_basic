@@ -1,0 +1,8 @@
+React Project pulling Data from 3 Sources
+
+Internal File: Home.js
+
+npx json-server --watch data/db.json --port 8000
+http://localhost:8001/blogs 
+
+External Source
