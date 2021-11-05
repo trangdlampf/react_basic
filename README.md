@@ -4,8 +4,11 @@ React: basic code snippets
 Some of Asynchronous calls use JQuery, see index.html
 
 npx create-react-app myapp 
+
 cd _myAppName 
+
 npm install 
+
 npm start 
 
 using:
