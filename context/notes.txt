@@ -1,0 +1,12 @@
+When I am in the folder 'nn_context_hooks', 
+  use the Terminal inside of Visual Studio Code
+  to type:
+
+cd contextapp
+npm install
+npm start
+
+This will start the localhost at 3000: 
+http://localhost:3000/
+
+These files are located on Desktop: D:\Jobs_Trang\nn_context_hooks\contextapp
