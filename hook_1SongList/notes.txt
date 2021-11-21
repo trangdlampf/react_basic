@@ -1,1 +1,3 @@
 Lesson 10
+
+hook, list and .map
