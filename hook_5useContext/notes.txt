@@ -1,1 +1,4 @@
 Besides useEffect, it has useContect
+
+BookList.js, Navbar.js and ThemeToggle.js is in folder components
+AuthContext.js and Themecontext.js is in folder contexts
