@@ -16,3 +16,8 @@ D:\Jobs_Trang\nn_context_hooks\pixabay-image-finder
 
 API Docs
 https://pixabay.com/api/docs/ 
+
+File located:
+components > image-results > ImageResults.js 
+components > navbar        > NavBar.js 
+components > search        > Search.js 
