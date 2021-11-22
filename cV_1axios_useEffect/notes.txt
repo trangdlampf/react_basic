@@ -1,3 +1,6 @@
 basic: axios, useEffect
 
 https://www.youtube.com/watch?v=bYFYF2GnMy8
+
+Located here:
+D:\Jobs_Trang\nn_context_hooks\_dataFetch_getData_List
