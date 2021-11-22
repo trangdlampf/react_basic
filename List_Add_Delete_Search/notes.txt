@@ -1,0 +1,12 @@
+located:
+D:\Jobs_Trang\nn_context_hooks\myfetchapp
+
+Tutorial in comment section: 
+https://dev.to/iam_timsmith/lets-build-a-search-bar-in-react-120j
+
+App.js and List.js in same folder
+
+useState, useEffect, Fragment
+
+User can:
+add, remove items on list. search the list.
