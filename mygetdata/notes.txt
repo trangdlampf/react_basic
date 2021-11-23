@@ -1,0 +1,6 @@
+// on my CodeSandbox
+https://codesandbox.io/s/bold-water-cmq9i?file=/src/App.js 
+
+Gets data
+
+uses App.js and GetDataF.js
