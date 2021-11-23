@@ -19,3 +19,8 @@ npx json-server --watch data/db.json --port 8001
 
 To use material-ui:
 npm install @material-ui/core
+
+http://trangdoanlam.com/portfolio/animalcrossing/build/
+http://trangdoanlam.com/portfolio/writings/index_weatherApp.html
+http://trangdoanlam.com/portfolio/d3mapFrance.html 
+http://trangdoanlam.com/test/vue_6componentBootstrap.html 
