@@ -4,3 +4,11 @@ https://www.youtube.com/watch?v=bYFYF2GnMy8
 
 Located here:
 D:\Jobs_Trang\nn_context_hooks\_dataFetch_getData_List
+
+App.js and List.js (Like a Todo List that adds, removes, delete)
+
+App.js and:
+components > DataFetching.js    (same as 3 or GetData3.js)
+           > GetData1.js        (shows all posts)
+           > GetData2.js        (shows one post based on typed number)   
+           > GetData3.js        (shows one post based on button)
