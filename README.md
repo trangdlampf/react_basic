@@ -29,3 +29,5 @@ http://trangdoanlam.com/portfolio/writings/index_weatherApp.html
 http://trangdoanlam.com/portfolio/d3mapFrance.html 
  
 http://trangdoanlam.com/test/vue_6componentBootstrap.html 
+
+https://codesandbox.io/s/bold-water-cmq9i?file=/src/GetDataF.js 
